@@ -28,6 +28,6 @@ import (
 )
 
 func df(args []string) int {
-	fmt.Printf("%s", x)
+	fmt.Printf("%s", "Hi")
 	return 0
 }
