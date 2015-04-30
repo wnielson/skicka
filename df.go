@@ -21,10 +21,6 @@ package main
 
 import (
 	"fmt"
-	"github.com/google/skicka/gdrive"
-	"os"
-	"path/filepath"
-	"time"
 )
 
 func df(args []string) int {
